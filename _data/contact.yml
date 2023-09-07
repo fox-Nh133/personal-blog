@@ -2,12 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/fox-Nh133'
 
 - type: twitter
   icon: "fab fa-twitter"
+  url: 'https://twitter.com/Kyle___113'
 
 - type: email
   icon: "fas fa-envelope"
+  url: 'mailto:masaya@mailbox.org'
   noblank: true # open link in current tab
 
 - type: rss
