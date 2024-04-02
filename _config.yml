@@ -13,20 +13,19 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: JST (UTC+9)
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Masaya # the main title
 
-tagline: Personal blog about chemistry and web devlopment # it will display as the sub-title
+tagline: Kyoto Institute of Technology, Sony CSL Kyoto, mui Lab  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Personal blog about chemistry and web devlopment by Masaya,Japanese undergraduate student.
-
+  Japanese university student, researcher, and hardware engineer in Kyoto, Japan. Personal blog about chemistry, human machine interface, calm technology and more.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "masaya@narita.info"
 
 github:
   username: fox-Nh133 # change to your github username
@@ -37,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Masaya NARITA
-  email: masaya@mailbox.org # change to your email address
+  email: masaya@narita.info # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/kyle___113 # change to your twitter homepage
